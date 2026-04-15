@@ -30,4 +30,4 @@ Este projeto foi desenvolvido com o objetivo de praticar lógica de programaçã
 
 Victor Marques  
 - GitHub: https://github.com/vpmmarquess
-- LinkedIn: (adicione aqui)
+- LinkedIn: (https://www.linkedin.com/in/victor-marques-935442ba/?skipRedirect=true)
